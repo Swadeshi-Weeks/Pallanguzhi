@@ -1,0 +1,13 @@
+version 1:
+
+each player has 35 coins
+7 holes on each side, each filled with 5
+pick first cup on left, drop them one by one going anticlockwise
+after dropping, pick everthing in cup after last shell
+pick first cup on left, drop them one by one going anticlockwise
+get everthing after the empty cup
+---------------------
+next player
+---------------------
+then start anything
+---------------------
